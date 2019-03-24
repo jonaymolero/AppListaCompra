@@ -11,9 +11,6 @@ import net.azarquiel.listacompra_v2.MainActivity
 import net.azarquiel.listacompra_v2.model.ListaCompra
 import org.jetbrains.anko.*
 
-/**
- * Created by pacopulido on 9/10/18.
- */
 class CustomAdapter(val context: Context,
                     val layout: Int,
                     val main:MainActivity) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
