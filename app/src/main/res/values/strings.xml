@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="action_settings">Settings</string>
+    <string name="compra">Añade una nueva compra</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="nulo">Tienes que rellenar los datos</string>
+    <string name="añadida">Compra añadida</string>
+    <string name="editada">Compra editada</string>
+</resources>
